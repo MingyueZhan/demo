@@ -1,0 +1,4 @@
+/*此样式用于处理 浏览器默认的body的margin样式为8px*/
+body{
+	margin: 0;
+}
